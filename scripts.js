@@ -90,9 +90,3 @@ let buttonHelli =  document.querySelector(".Helli2");
     buttonHelli.classList.toggle('active');
 })
 
-
-buttonPoli2.addEventListener('click', function () {
-  return {
-    buttonPoli
-  }
-})
